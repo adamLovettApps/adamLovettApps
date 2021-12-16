@@ -19,11 +19,15 @@
 <div style="margin-bottom: 50px; padding-bottom: 50px;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adamlovettapps&show_icons=true&locale=en&layout=compact" alt="adamlovettapps" /></div>
 <p height="30">&nbsp;</p><br>
 <div><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adamlovettapps&show_icons=true&locale=en" alt="adamlovettapps" /></p></div>
-<del>
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adamLovettApps)](https://git.io/streak-stats)
-  
- </del>
+<!-- <del>
+[![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamLovettApps&show_icons=true&theme=tokyonight)](https://github.com/adamLovettApps/github-readme-stats)
+</del>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamLovettApps&show_icons=true&theme=tokyonight)](https://github.com/adamLovettApps/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adamLovettApps&theme=tokyonight)](https://git.io/streak-stats)
+
+</del> -->
 <!-- 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adamlovettapps&" alt="adamlovettapps" /></p> -->
 
